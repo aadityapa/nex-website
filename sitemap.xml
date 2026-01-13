@@ -24,31 +24,9 @@
   </url>
 
   <url>
-    <loc>https://www.nexyyra.com/blog</loc>
-    <lastmod>2026-01-01</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
     <loc>https://www.nexyyra.com/contact</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>yearly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <!-- Blog URLs -->
-  <url>
-    <loc>https://www.nexyyra.com/blog/blockchain-and-ai-in-finance-revolutionizing-the-industry</loc>
-    <lastmod>2026-01-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://www.nexyyra.com/blog/security-and-privacy-in-ai-web3-integrations-best-practices</loc>
-    <lastmod>2026-01-01</lastmod>
-    <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
